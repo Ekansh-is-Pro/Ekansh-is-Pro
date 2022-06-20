@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/His
 
 # 💻Tech Stack
-![Python](image:https://img.shields.io/pypi/pyversions/3[PyPI - Python Version])
+![Python](https://img.shields.io/pypi/pyversions/3[PyPI - Python Version])
 
 
 
