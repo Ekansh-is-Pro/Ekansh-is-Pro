@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# 💫About Me :
+- 🔭 I’m currently working in **Python** 
+- 🌱 I’m currently learning more about OpenCV and more technologies
+- 🤔 I’m looking for help with Exploring New Technologies.
+- 📫 How to reach me: Email - ekanshj232@gmail.com
+- 😄 Pronouns: He/His
 <!--
 **Ekansh-is-Pro/Ekansh-is-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
