@@ -7,6 +7,12 @@
 - 📫 How to reach me: Email - ekanshj232@gmail.com
 - 😄 Pronouns: He/His
 
+# 💻Tech Stack
+![Python](<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/3">)
+
+
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ekansh-is-pro&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ekansh-is-pro&theme=onedark&hide_border=false)<br/>
