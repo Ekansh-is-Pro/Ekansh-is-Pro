@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-- 🔭 I’m currently working in **Python** 
-- 🌱 I’m currently learning more about OpenCV and more technologies
+- 🔭 I’m currently working in **Python** and **C++**.
 - 🤔 I’m looking for help with Exploring New Technologies.
 - 📫 How to reach me: Email - ekanj2007@gmail.com
 - 😄 Pronouns: He/His
